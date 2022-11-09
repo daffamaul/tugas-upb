@@ -1,3 +1,16 @@
+#escape string
+''' \b(backspace) \t(spasi) \n(enter)
+	r''(menanggap string ) '''
+
+#concenate string (penggabungan string)
+''' 
+a = "daffa"
+b = "maulana"
+c = a + " " + b
+print(c)
+outputnya, daffa maulana
+ '''
+
 '''
 # string array 
 a = ["Hello", "World"]

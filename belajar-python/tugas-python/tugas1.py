@@ -13,7 +13,7 @@ if a == "Muhamad Daffa Maulana Arrasyid" and b == 312210335:
 	pp = str('''
 		Menghitung Luas Persegi Panjang
 		-------------------------------
-		''')
+		''') 
 	print(pp)
 	panjang = int(input("Masukkan nilai panjang = "))
 	lebar = int(input("Masukkan nilai lebar = "))
